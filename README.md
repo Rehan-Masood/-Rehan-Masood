@@ -65,8 +65,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="github-readme-stats-lwz3rc5ge-rehan-web.vercel.app/api?username=Rehan-Masood&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats"/>
-  <img height="165" src="github-readme-stats-lwz3rc5ge-rehan-web.vercel.app/api/top-langs/?username=Rehan-Masood&layout=compact&theme=react&hide_border=true" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats-rehan-web.vercel.app/api?username=Rehan-Masood&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats-rehan-web.vercel.app/api/top-langs/?username=Rehan-Masood&layout=compact&theme=react&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
